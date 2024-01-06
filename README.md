@@ -199,9 +199,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     <img src="https://www.developersdens.com/assets/dev_den_logo_white.png" alt="DevelopersDen" height="80" />
   </a>
 
-  <a href="https://ecofin.com.pk/#/home" target="_blank">
-    <img src="https://ecofin.com.pk/assets/img/jorr-logo-removebg.png" alt="JORR" height="80" />
-  </a>
+ 
 </div>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
